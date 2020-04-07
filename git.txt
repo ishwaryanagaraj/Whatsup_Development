@@ -1,0 +1,5 @@
+1.> Creat a app homescreen
+
+2.> Cehck last seen
+
+3.> upload files
